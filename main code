@@ -1,6 +1,0 @@
-#installing everything
-import cv2
-import mediapipe as mp
-import time
-from mediapipe.tasks.python import BaseOptions
-from mediapipe.tasks.python.vision import HandLandmarker, HandLandmarkerOptions, RunningMode
